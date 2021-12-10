@@ -17,4 +17,4 @@ The dataset of the Udemy courses contains a number of courses and its associated
 3. The distribution of all the courses in Figure shows that Web Development and Business Finance has almost the same number of courses although Web Development has the most subscribers.
 4. On analyzing the average cost, the intermediate level courses have a higher cost for all subjects except Business Finance
       
-      <h2>Refer to the commits to find full details of this project</h2>
+      <b>Refer to the commits to find full details of this project</b>
